@@ -1,6 +1,6 @@
 # Summary
 
 * [简介](README.md)
-* Git
-* GitHub
+* [Git](git.md)
+* [GitHub](github.md)
 
