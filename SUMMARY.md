@@ -4,6 +4,6 @@
 * [Git](git.md)
   * [Git的基础](git/gitde-ji-chu.md)
 * [GitHub](github.md)
-* GitLab
-* Gogs
+* [GitLab](gitlab.md)
+* [Gogs](gogs.md)
 
