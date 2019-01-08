@@ -4,27 +4,28 @@
 * [Git](git.md)
   * [Git的基础](git/gitde-ji-chu.md)
 * [GitHub](github.md)
-  * Branch
-  * Release
+  * [Branch](github/branch.md)
+  * [Release](github/release.md)
   * README.md
   * [Wiki](github/wiki.md)
   * [Issue](github/issue.md)
   * [Fork](github/fork.md)
   * [Star](github/star.md)
-  * Watch
+  * [Watch](github/watch.md)
   * [Pull](github/pull.md)
   * Merge
-  * Repository
+  * [Repository](github/repository.md)
   * Organization
   * Search
+  * Explore
   * [Gist](github/gist.md)
   * Pages
   * OAuth
   * Octocat
-  * Gitmoji
-  * Watch
+  * [Gitmoji](github/gitmoji.md)
+  * Buttons
 * [GitHub Pages](github-pages.md)
   * [Docs](github-pages/docs.md)
   * [Blog](github-pages/blog.md)
-  * Html
+  * [Html](github-pages/html.md)
 
