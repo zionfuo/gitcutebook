@@ -20,6 +20,7 @@
   * Explore
   * [Gist](github/gist.md)
   * Pages
+  * Desktop
   * OAuth
   * Octocat
   * [Gitmoji](github/gitmoji.md)
