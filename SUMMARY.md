@@ -27,11 +27,11 @@
   * [Docs](github-pages/docs.md)
   * [Blog](github-pages/blog.md)
   * [Html](github-pages/html.md)
-* [Buttons](github-products/buttons.md)
-* [Gitmoji](github-products/gitmoji.md)
-* [Travis CI](github-products/travis-ci.md)
-* [Codecov](github-products/codecov.md)
-* [RawGit](github-products/rawgit.md)
 * [Products](products.md)
-* [Netlify](products/netlify.md)
+  * RawGit
+  * Netlify
+  * Codecov
+  * TravisCI
+  * Buttons
+  * Gitmoji
 
