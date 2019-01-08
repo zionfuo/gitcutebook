@@ -34,4 +34,6 @@
   * TravisCI
   * Buttons
   * Gitmoji
+  * GitLab
+  * Gitter
 
