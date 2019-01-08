@@ -1,4 +1,10 @@
-# hhhhhhhhhhhhhhhh
+# GitHub
 
-ggggggggggggg
+![](/assets/github.png)维基百科上描述，GitHub是通过Git进行版本控制的软件源代码托管服务，由GitHub公司（曾称Logical Awesome）的开发者Chris Wanstrath、PJ Hyett和Tom Preston-Werner使用Ruby on Rails编写而成。
+
+GitHub同时提供付费账户和免费账户。这两种账户都可以创建公开的代码仓库，但是付费账户还可以创建私有的代码仓库。根据在2009年的Git用户调查，GitHub是最流行的Git访问站点。除了允许个人和组织创建和访问保管中的代码以外，它也提供了一些方便社会化共同软件开发的功能，即一般人口中的社群功能，包括允许用户追踪其他用户、组织、软件库的动态，对软件代码的改动和bug提出评论等。GitHub也提供了图表功能，用于概观显示开发者们怎样在代码库上工作以及软件的开发活跃程度。
+
+截止到2015年，GitHub已经有超过两千八百万注册用户和7900万代码库。事实上已经成为了世界上最大的代码存放网站和开源社区。
+
+2018年6月4日晚上，美国科技公司微软宣布以75亿美元的股票收购GitHub。
 
