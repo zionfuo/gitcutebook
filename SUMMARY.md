@@ -6,34 +6,34 @@
 * [GitHub](github.md)
   * [Branch](github/branch.md)
   * [Release](github/release.md)
-  * README.md
+  * [README.md](github/readmemd.md)
   * [Wiki](github/wiki.md)
   * [Issue](github/issue.md)
   * [Fork](github/fork.md)
   * [Star](github/star.md)
   * [Watch](github/watch.md)
   * [Pull](github/pull.md)
-  * Merge
+  * [Merge](github/merge.md)
   * [Repository](github/repository.md)
-  * Organization
-  * Search
-  * Explore
+  * [Organization](github/organization.md)
+  * [Search](github/search.md)
+  * [Explore](github/explore.md)
   * [Gist](github/gist.md)
-  * Pages
-  * Desktop
-  * OAuth
-  * Octocat
+  * [Pages](github/pages.md)
+  * [Desktop](github/desktop.md)
+  * [OAuth](github/oauth.md)
+  * [Octocat](github/octocat.md)
 * [GitHub Pages](github-pages.md)
   * [Docs](github-pages/docs.md)
   * [Blog](github-pages/blog.md)
   * [Html](github-pages/html.md)
 * [Products](products.md)
   * [RawGit](products/rawgit.md)
-  * Netlify
-  * Codecov
-  * TravisCI
-  * Buttons
-  * Gitmoji
-  * GitLab
-  * Gitter
+  * [Netlify](products/netlify.md)
+  * [Codecov](products/codecov.md)
+  * [TravisCI](products/travisci.md)
+  * [Buttons](products/buttons.md)
+  * [Gitmoji](products/gitmoji.md)
+  * [GitLab](products/gitlab.md)
+  * [Gitter](products/gitter.md)
 
