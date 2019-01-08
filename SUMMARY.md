@@ -23,10 +23,13 @@
   * Desktop
   * OAuth
   * Octocat
-  * [Gitmoji](github/gitmoji.md)
-  * Buttons
 * [GitHub Pages](github-pages.md)
   * [Docs](github-pages/docs.md)
   * [Blog](github-pages/blog.md)
   * [Html](github-pages/html.md)
+* [GitHub Products](github-products.md)
+  * Buttons
+  * Gitmoji
+  * Travis CI
+  * Codecov
 
